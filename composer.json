@@ -1,0 +1,6 @@
+{
+    "require": {
+        "peesoft/yii": "2.0.x-dev",
+        "peesoft/yii2-coolext": "*"
+    }
+}
